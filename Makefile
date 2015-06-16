@@ -4,4 +4,3 @@ default :
 	git push origin master
 	git tag -a "v$(version)" -m "Release version v"$(version)
 	git push --tags origin master
-    
