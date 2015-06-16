@@ -2,6 +2,6 @@ version = $(shell node -e "console.log(JSON.parse(require('fs').readFileSync('pa
 
 default :
 	git push origin master
-	git tag v$(version)
+	git tag -a "v$(version)" -m "Release version v"$(version)
 	git push --tags origin master
     
