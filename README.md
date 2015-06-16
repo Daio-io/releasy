@@ -2,4 +2,4 @@
 
 Nothing to see here...
 
-A place to test out automated release and deployments.
+A playground to test out automated release and deployments with CI.
