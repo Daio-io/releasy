@@ -2,7 +2,7 @@
 
 var FakeContent = function () {
 
-  this.isFake = 'some fake var testing';
+  this.isFake = 'some fake var more testing';
 
 
 };
